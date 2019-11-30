@@ -2,7 +2,8 @@
 Mines &amp; Rocks Classification using SVM in python 
 
 Résultats : 
-``` Confusion Matrix
+``` 
+Confusion Matrix
     [24  0]
     [ 3 15]
 accuracy : 0.9285714285714286
